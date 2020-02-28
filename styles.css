@@ -1,3 +1,9 @@
-#text, i, h3 {
+#text,
+i,
+h3 {
   color: rgb(0, 174, 255);
+}
+
+p, a {
+  font-size: large;
 }
